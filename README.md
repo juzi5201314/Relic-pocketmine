@@ -10,6 +10,9 @@
 遗迹文件放入relics文件夹
 
 
+GitHub的relics文件夹里有一些赠送的遗迹文件，可直接使用
+
+
 指令:
 
 /re load
