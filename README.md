@@ -1,5 +1,7 @@
 # Relic-pocketmine
 
+   pocketmine， 一个mcpe的服务端，php编写
+
 一个pm的遗迹插件
 
 本插件开源，所有注释/代码仅供参考。请勿抄袭。
